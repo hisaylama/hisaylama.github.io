@@ -1,1 +1,10 @@
+- name: AFM HeightProfileApp
+  link: https://github.com/hisaylama/AFM-data-height-profile-analysis
+  description: MATLAB app to visualize AFM surfaces, extract line profiles, perform baseline correction, and fit peaks.
+  tags: [MATLAB, AFM, Gaussian fits]
+
+- name: Statistical Physics Algorithms
+  link: https://github.com/hisaylama/Statistical_Physics_Algorithm_Computation
+  description: Notebooks on sampling/integration, path integrals, Bose–Einstein stats, and Ising Monte Carlo.
+  tags: [Jupyter, Monte Carlo, Ising]
 
