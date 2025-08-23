@@ -1,9 +1,7 @@
-# Hisay Lama — GitHub Portfolio (Jekyll Minimal)
-
-A clean portfolio powered by **Jekyll** with the official **`jekyll-theme-minimal`** theme.
+# Github Portfolio
 
 - **Live site:** https://hisaylama.github.io
-- **Repo:** https://github.com/hisaylama/hisaylama.github.io
+- **Repo:** https://github.com/hisaylama
 
 ---
 
@@ -108,4 +106,4 @@ Then open http://localhost:4000
 ---
 
 ## License & Credits
-Content © Hisay Lama. Theme: [`jekyll-theme-minimal`](https://github.com/pages-themes/minimal) by GitHub.
+Content © Hisay Lama. 
