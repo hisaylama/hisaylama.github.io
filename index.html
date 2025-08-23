@@ -10,31 +10,22 @@
   <meta property="og:type" content="website" />
   <style>
     :root{
-      --bg:#0b0c0f; --text:#e7e9ea; --muted:#9aa0a6; --card:#141721; --border:#222634; --accent:#7cc5ff; --link:#9fd3ff; --cover-ring:#3aa1ff;
-      /* optional: set a local image like url('cover.jpg') */
-      --cover-image:none;
+      /* Force white background by default */
+      --bg:#ffffff; --text:#0b0c0f; --muted:#5b5f66; --card:#ffffff; --border:#e6eaf0; --accent:#0ea5e9; --link:#0369a1; --cover-ring:#0ea5e9;
+      --cover-image:none; /* set to url('cover.jpg') if you add one */
     }
     [data-theme="light"]{ --bg:#ffffff; --text:#0b0c0f; --muted:#5b5f66; --card:#ffffff; --border:#e6eaf0; --accent:#0ea5e9; --link:#0369a1; --cover-ring:#0ea5e9 }
     html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font:16px/1.6 system-ui,-apple-system,Segoe UI,Inter,Roboto,Helvetica,Arial}
     a{color:var(--link);text-decoration:none} a:hover{text-decoration:underline}
     .wrap{max-width:1040px;margin:0 auto;padding:24px}
 
-    /* --- Beautiful Cover / Hero --- */
-    .cover{position:relative;isolation:isolate;overflow:hidden}
-    .cover::before{content:"";position:absolute;inset:0;z-index:-2;
-      background:
-        radial-gradient(1200px 600px at -10% -10%, rgba(126,212,255,.20), transparent 60%),
-        radial-gradient(1200px 600px at 110% 10%, rgba(14,165,233,.18), transparent 55%),
-        linear-gradient(180deg, rgba(255,255,255,.04), transparent 40%);
-    }
-    .cover::after{content:"";position:absolute;inset:-8rem -20vw -12rem -20vw;z-index:-3;
-      background:var(--cover-image),
-                 radial-gradient(50% 60% at 70% 20%, rgba(122, 210, 255, .25), transparent 60%),
-                 linear-gradient(130deg, rgba(10,18,30,.8), rgba(10,18,30,.4));
-      background-size:cover; background-position:center; filter:blur(28px) saturate(1.05);
-    }
+    /* --- Clean, white Cover / Hero --- */
+    .cover{position:relative;isolation:isolate;overflow:hidden;background:#ffffff}
+    /* remove dark gradients for a pure white look */
+    .cover::before{content:"";position:absolute;inset:0;z-index:-2;background:none}
+    .cover::after{content:"";position:absolute;inset:0;z-index:-3;background:var(--cover-image);background-size:cover;background-position:center;filter:none;opacity:0.08}
     .hero{display:grid;grid-template-columns:1.15fr .85fr;gap:28px;align-items:center;padding:58px 0}
-    .badge{display:inline-flex;gap:8px;align-items:center;background:rgba(127,127,127,.08);border:1px solid var(--border);padding:6px 10px;border-radius:999px;font-size:12px;color:var(--muted)}
+    .badge{display:inline-flex;gap:8px;align-items:center;background:#f4f7fb;border:1px solid var(--border);padding:6px 10px;border-radius:999px;font-size:12px;color:var(--muted)}
     h1{font-size:clamp(34px, 5vw, 56px);margin:12px 0 8px;line-height:1.1}
     .lead{font-size:clamp(16px, 1.8vw, 20px);color:var(--muted);margin:0 0 16px}
     .cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:14px}
@@ -42,32 +33,14 @@
     .btn.primary{background:var(--accent);color:#041018;border-color:transparent}
 
     .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:16px}
-    .avatar{width:98px;height:98px;border-radius:18px;background:conic-gradient(from 140deg at 50% 50%, var(--accent), #6aa7ff, var(--accent));display:flex;align-items:center;justify-content:center;color:#061826;font-weight:800;font-size:30px;border:3px solid var(--cover-ring);box-shadow:0 10px 24px rgba(0,0,0,.18)}
+    .avatar{width:98px;height:98px;border-radius:18px;background:conic-gradient(from 140deg at 50% 50%, var(--accent), #6aa7ff, var(--accent));display:flex;align-items:center;justify-content:center;color:#061826;font-weight:800;font-size:30px;border:3px solid var(--cover-ring);box-shadow:0 6px 16px rgba(0,0,0,.06)}
 
     /* sublinks (to subpages/sections) */
     .sublinks{display:flex;gap:12px;flex-wrap:wrap;margin-top:14px}
-    .sublink{display:inline-flex;align-items:center;gap:8px;padding:8px 12px;border:1px dashed var(--border);border-radius:999px;background:rgba(127,127,127,.06);font-size:14px}
+    .sublink{display:inline-flex;align-items:center;gap:8px;padding:8px 12px;border:1px dashed var(--border);border-radius:999px;background:#f8fafc;font-size:14px}
 
     section{padding:22px 0 30px}
-    h2{margin:0 0 14px;font-size:22px}
-
-    /* Responsive video embed */
-    .video{position:relative;width:100%;max-width:840px;border-radius:14px;overflow:hidden;border:1px solid var(--border);background:#000}
-    .video::before{content:"";display:block;padding-top:56.25%}
-    .video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
-
-    footer{border-top:1px solid var(--border);padding:26px 0;margin-top:36px;color:var(--muted)}
-
-    header.site{position:sticky;top:0;backdrop-filter:saturate(180%) blur(8px);background:color-mix(in hsl, var(--bg) 85%, transparent);border-bottom:1px solid var(--border);z-index:20}
-    .nav{display:flex;align-items:center;justify-content:space-between}
-    .brand{display:flex;align-items:center;gap:10px;font-weight:700}
-    .brand .dot{width:10px;height:10px;border-radius:50%;background:var(--accent)}
-    .navlinks{display:flex;gap:16px;flex-wrap:wrap}
-    .navlinks a{padding:8px 10px;border-radius:10px}
-    .navlinks a:hover{background:rgba(127,127,127,.08)}
-
-    @media (max-width:900px){.hero{grid-template-columns:1fr}}
-  </style>
+    h2{margin:0 0 14px;font-size:22px}  </style>
   <script>
     // Theme toggle
     const setTheme=t=>{document.documentElement.setAttribute('data-theme',t);localStorage.setItem('theme',t)};
@@ -96,10 +69,9 @@
       <div>
         <span class="badge">Statistical Physics · Quantitative Research · Machine Learning</span>
         <h1>Hisay Lama Website</h1>
-        <p class="lead">Thanks for stopping by! Explore my research and projects below. If you came from my GitHub Pages video, say hi in the comments.</p>
+        <p class="lead">Thanks for stopping by! Explore my research and projects below.</p>
         <div class="cta">
-          <a class="btn primary" href="#video">Watch the video</a>
-          <a class="btn" href="#projects">See projects</a>
+          <a class="btn primary" href="#projects">See projects</a>
           <a class="btn" href="#research">Read research</a>
         </div>
         <div class="sublinks">
@@ -123,16 +95,6 @@
   </div>
 
   <main class="wrap">
-    <section id="video">
-      <h2>GitHub Pages video</h2>
-      <p class="lead">Replace <code>VIDEO_ID</code> below with your YouTube ID.</p>
-      <div class="video">
-        <iframe src="https://www.youtube.com/embed/VIDEO_ID" title="YouTube video player"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      </div>
-      <p style="margin-top:8px">Direct link: <a href="https://youtu.be/VIDEO_ID" target="_blank" rel="noopener">Open on YouTube ↗</a></p>
-    </section>
-
     <section id="research">
       <h2>Research</h2>
       <p>Experimental soft‑matter physics, statistical physics, and quantitative image analysis. Current interests include intermittent search strategies (mean first‑passage time), volatility clustering, sentiment‑driven price prediction, and molecular graph learning.</p>
