@@ -1,5 +1,9 @@
-theme: jekyll-theme-minimal
 title: Hisay Lama homepage
 description: Bookmark this to keep an eye on my project updates!
+theme: jekyll-theme-minimal
 email: hisaylama@gmail.com
 github_username: hisaylama
+logo: /assets/img/avatar.svg
+kaggle_username: hisaylama
+linkedin_url: https://www.linkedin.com/in/your-link-here/
+timezone: Europe/London
