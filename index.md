@@ -2,11 +2,10 @@
 ---
 Hi, I'm Hisay Lama. I'm a Physicist at the Imperial College London, U.K.
 
-I study mechanics of soft interface - particularly, wetting and wrinkling instability in soft materials. I’m particularly interested in quantitative research, that enables researcher to understand the properties of soft materials using the principle of physics. More details on physics research can be found in my [google-site webpage](https://sites.google.com/view/hisaylama1/XX?authuser=0).
+I study mechanics of soft interface - particularly, wetting and wrinkling instability in soft materials. I’m particularly interested in quantitative research, that enables researcher to understand the properties of complex system including the soft-materials using the principle of physics. Here, I share the research projects pertianing to Machine Learning and Statistical Physics its application in finance, complex system and quantitative image-processing. Few of my recent projects are listed in my [Github](https://github.com/hisaylama) repository.
 
-This website is particularly for sharing research projects pertianing to Machine Learning and Statistical Physics and its application in finance, complex system and quantitative image-processing. Few of my recent projects are listed here: 
 
-## Projects
+Previously, I worked on drying of colloids, pattern formation, active glass, cracking and warping. The details on this can be found in my [google-site webpage](https://sites.google.com/view/hisaylama1/XX?authuser=0). 
 
 **Here are some of my notable projects:**
 
@@ -15,7 +14,3 @@ This website is particularly for sharing research projects pertianing to Machine
 3. [Phase retreival algorithm](https://github.com/hisaylama/Phase-Mask-for-Spatial-Light-Modulator) - Phase retrieval code for holography microscopy.[**Quantitative Image Processing** ]
 4. [Brownian simulation](https://github.com/hisaylama/Brownian-Simulation) - Langevin simulation prey-predator model. [**Statistical Physics and Thermodynamics**/ **Machine Learning**]
    
-
-- My email address: [h.lama@imperial.ac.uk](h.lama@imperial.ac.uk)
-- My github: [Github](mailto:https://github.com/hisaylama)
-- My office, is in the ACEX 514B in the South Kensington, London SW7 2AZ.
