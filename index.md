@@ -2,7 +2,7 @@
 ---
 Hi, I'm Hisay Lama. I'm a Physicist working at the Imperial College London, U.K.
 
-I’m interested in *quantitative research* that enables researcher to understand the properties of *complex systems* including the soft-materials using the principle of physics. Here, I share the research projects pertianing to *Machine Learning* and *Statistical Physics* its application in finance, complex system and *quantitative image-processing*. 
+I’m interested in *quantitative research* that enables researcher to understand the properties of *complex systems* including the soft-materials using the principle of physics. Here, I share the research projects pertianing to *Machine Learning* and *Statistical Physics* its application in *finance*, *complex systems* and *quantitative image-processing*. 
 
 **Here are some of my notable projects:**
 
