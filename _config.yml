@@ -31,7 +31,7 @@ linkedin: hisaylama
 header_pages:
  - about.md
  - publications.md
- - teaching.md
+ - projects.md
  - blog.md
 
 # Build settings
