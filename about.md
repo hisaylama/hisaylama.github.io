@@ -16,8 +16,9 @@ I'm a Physicist working as Research Associate at Imperial College London. At Imp
 
 ## CV
 
-* **2023--present:** Research Associate, Imperial College London, UK
-* **2020--2023:** Researcher, School of Science, The University of Tokyo, Japan
-* **2019--2020:** Senior Researcher, IBS South Korea
-* **2014--2019:** PhD Physics, Department of Physics, IIT Madras, India
-* **2011--2013:** MSC. Physics, Department of Physics, IIT Madras, India
+* **Oct 2023--present:** Research Associate, Imperial College London, UK
+* **Dec 2020--Oct 2023:** Researcher, School of Science, The University of Tokyo, Japan
+* **Nov 2019--Nov 2020:** Senior Researcher, Institue of Basic Science (IBS), South Korea
+* **Jan 2014--Sept 2019:** PhD Physics, Department of Physics, IIT Madras, India
+* **Feb 2018--June 2019:** Visiting researcher at Universite Paris Sud, Paris, France
+* **Aug 2011--June 2013:** MSC. Physics, Department of Physics, IIT Madras, India
