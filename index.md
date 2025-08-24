@@ -2,7 +2,7 @@
 ---
 Hi, I'm Hisay Lama. I'm a Physicist at the Imperial College London, U.K.
 
-I study mechanics of soft interface - particularly, wetting and wrinkling instability in soft materials. I’m particularly interested in *quantitative research* that enables researcher to understand the properties of complex systems including the soft-materials using the principle of physics. Here, I share the research projects pertianing to *Machine Learning* and *Statistical Physics* its application in finance, complex system and *quantitative image-processing*. Few of my recent projects are listed in my [Github](https://github.com/hisaylama) repository.
+I study mechanics of soft interface - particularly, wetting and wrinkling instability in soft materials. I’m particularly interested in *quantitative research* that enables researcher to understand the properties of complex systems including the soft-materials using the principle of physics. Here, I share the research projects pertianing to *Machine Learning* and *Statistical Physics* its application in finance, complex system and *quantitative image-processing*. Few of my recent projects are listed in my [github](https://github.com/hisaylama) repository.
 
 
 Previously, I worked on drying of colloids, pattern formation, active glass, cracking and warping. The details on this can be found in my [google-site webpage](https://sites.google.com/view/hisaylama1/XX?authuser=0). 
