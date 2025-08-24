@@ -2,7 +2,7 @@
 ---
 Hi, I'm Hisay Lama. I'm a Physicist at the Imperial College of London, in the Chemical Engineering department.
 
-I study probability, information theory, combinatorics, statistics and related things. I’m particularly interested in group testing, a problem that models testing a large population for a blood disease that also has applications in communications, computer science, genetics and has been used during the Covid pandemic. I’m also interested in ways of coping with interference in large multiuser communications networks. I'm also also interested in "discrete probability equivalents" of concepts from continuous probability.
+I study soft-wetting and wrinkling instability in soft materials. I’m particularly interested in quantitative research, that enables researcher to understand the properties of soft materials. I’m also interested in Machine Learning and Statistical Physics.
 
 
 My ORCID is 0000-0002-9347-1586.
