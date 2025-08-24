@@ -8,9 +8,9 @@ permalink: /me/
 
 * **Email:** My email address is <h.lama@imperial.ac.uk>.
 
-* **In person:** My office is in the ACEX 514B, South Kensington.
+* **In person:** My office is in the ACEX 514B, South Kensington, Imperial College London, SW7 2AZ
 
-* **Post:** My postal address is: Imperial College London, SW7 2AZ.
+* **Post:** My postal address is: ACEX 514B, South Kensington, Imperial College London, SW7 2AZ.
 
 ## CV
 
