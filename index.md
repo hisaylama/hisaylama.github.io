@@ -2,7 +2,7 @@
 ---
 Hi, I'm Hisay Lama. I'm a Physicist at the Imperial College of London, in the Chemical Engineering department.
 
-I study soft-wetting and wrinkling instability in soft materials. I’m particularly interested in quantitative research, that enables researcher to understand the properties of soft materials. I’m also interested in Machine Learning and Statistical Physics.
+I study soft-wetting and wrinkling instability in soft materials. I’m particularly interested in quantitative research, that enables researcher to understand the properties of soft materials using the principle of physics. I’m also interested in Machine Learning and Statistical Physics.
 
 
 My ORCID is 0000-0002-9347-1586.
