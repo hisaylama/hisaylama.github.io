@@ -14,10 +14,8 @@ permalink: /me/
 
 ## CV
 
-* **2018--present:** Lecturer, School of Mathematics, University of Leeds
-* **2015--2018:** Research Fellow, Department of Mathematical Sciences, University of Bath
-* **2011--2015:** Research Fellow, School of Mathematics, University of Bristol
-* **2010--2011:** Research Assistant, School of Mathematics, University of Bristol
-* **2007--2011:** PhD Mathematics, School of Mathematics and Centre for Communications Research, University of Bristol
-* **2006--2007:** Part III Mathematics, University of Cambridge
-* **2003--2006:** BA(Hons) Mathematics, University of Cambridge
+* **2023--present:** Research Associate, Imperial College London, UK
+* **2020--2023:** Researcher, School of Science, The University of Tokyo, Japan
+* **2019--2020:** Senior Researcher, IBS South Korea
+* **2014--2019:** PhD Physics, Department of Physics, IIT Madras, India
+* **2011--2013:** MSC. Physics, Department of Physics, IIT Madras, India
