@@ -11,6 +11,4 @@ You might be looking for:
 
 My email address: h.lama@imperial.ac.uk
 
-My survey papers on group testing: "Pooled testing and its applications in the COVID-19 pandemic" (with David Ellis) and "Group testing: an information theory perspective" [book/ebook/paper, arXiv preprint] (with Oliver Johnson and Jonathan Scarlett)
-
-My office, which is 9.10n in the ACEX 514B in the South Kensington, London SW7 2AZ.
+My office, which is in the ACEX 514B in the South Kensington, London SW7 2AZ.
