@@ -4,7 +4,7 @@ title: About me
 permalink: /me/
 ---
 
-I'm a Physicist working as Research Associate at Imperial College London. At Imperial, I study mechanics of soft interface - particularly, wetting and wrinkling instability in soft materials. My recent projects related to qunatitative research are listed is available in my [github](https://github.com/hisaylama) repository. Previously, I worked on drying of colloids, pattern formation, active glass, cracking and warping. The details on this can be found in my [google-site webpage](https://sites.google.com/view/hisaylama1/XX?authuser=0). 
+I'm a Physicist working as Research Associate at Imperial College London. At Imperial, I study mechanics of soft interface - particularly, wetting and wrinkling instability in soft materials. My recent projects related to quantitative research are available in my [github](https://github.com/hisaylama) repository. Previously, I worked on drying of colloids, pattern formation, active glass, cracking & warping, instrumentation - physics and optical microscopy. The details on this can be found in my [google-site webpage](https://sites.google.com/view/hisaylama1/XX?authuser=0). 
 
 ## Contact Me
 
