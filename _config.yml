@@ -35,7 +35,7 @@ header_pages:
  - blog.md
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
