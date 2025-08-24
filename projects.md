@@ -28,4 +28,4 @@ Megha Emmerse, Hisay Lama, D.K Satapathy et al.
 **Physics of desiccation cracks in colloidal film**  
 Hisay Lama  
 PhD thesis, IIT Madras, 2019  
-Online summary: [arXiv:](https://arxiv.org/abs/2011.14029)
+Online summary: [arXiv](https://arxiv.org/abs/2011.14029)
