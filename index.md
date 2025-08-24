@@ -4,8 +4,6 @@ Hi, I'm Hisay Lama. I'm a Physicist working at the Imperial College London, U.K.
 
 I’m interested in *quantitative research* that enables researcher to understand the properties of *complex systems* including the soft-materials using the principle of physics. Here, I share the research projects pertianing to *Machine Learning* and *Statistical Physics* its application in finance, complex system and *quantitative image-processing*. 
 
-At Imperial, I study mechanics of soft interface - particularly, wetting and wrinkling instability in soft materials. My recent projects related to qunatitative research are listed is available in my [github](https://github.com/hisaylama) repository. Previously, I worked on drying of colloids, pattern formation, active glass, cracking and warping. The details on this can be found in my [google-site webpage](https://sites.google.com/view/hisaylama1/XX?authuser=0). 
-
 **Here are some of my notable projects:**
 
 1. [Data-Driven Credit Risk Assessment Using Machine Learning: A LendingClub Case Study](https://github.com/hisaylama/DSF_Lendingclub-Loan-Approval-ml) - Credit risk modelling and a real time scoring app [*Data Science in Finance*]
