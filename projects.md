@@ -25,7 +25,7 @@ Megha Emmerse, Hisay Lama, D.K Satapathy et al.
 
 ## PhD thesis
 
-**Physics of desiccation cracks in particulate film**  
+**Physics of desiccation cracks in pattern formation**  
 Hisay Lama  
 PhD thesis, IIT Madras, 2019  
 Online summary: [arXiv](https://arxiv.org/abs/2011.14029)
