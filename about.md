@@ -21,4 +21,4 @@ I'm a Physicist working as Research Associate at Imperial College London. At Imp
 * **Nov 2019--Nov 2020:** Senior Researcher, Institue of Basic Science (IBS), South Korea
 * **Jan 2014--Sept 2019:** PhD Physics, Department of Physics, IIT Madras, India
 * **Feb 2018--June 2019:** Visiting researcher at Universite Paris Sud, Paris, France
-* **Aug 2011--June 2013:** MSC. Physics, Department of Physics, IIT Madras, India
+* **Aug 2011--June 2013:** MSc. Physics, Department of Physics, IIT Madras, India
