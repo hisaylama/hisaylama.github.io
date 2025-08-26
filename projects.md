@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /publications/
+permalink: /projects/
 ---
 
 Other places to find my work, which might be more up to date, include, [Google Scholar]([https://scholar.google.co.uk/citations?user=UJShxDIAAAAJ](https://scholar.google.com/citations?user=nl3COaMAAAAJ&hl=en)), and [my LinkedIn page](https://www.linkedin.com/in/hisay-lama-ph-d-28478285/).
