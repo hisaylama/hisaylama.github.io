@@ -1,31 +1,15 @@
 ---
 layout: page
-title: Research
+title: Projects
 permalink: /projects/
 ---
 
-Other places to find my work, which might be more up to date, include, [Google Scholar]([https://scholar.google.co.uk/citations?user=UJShxDIAAAAJ](https://scholar.google.com/citations?user=nl3COaMAAAAJ&hl=en)), and [my LinkedIn page](https://www.linkedin.com/in/hisay-lama-ph-d-28478285/).
+I’m interested in *quantitative research* that enables us to understand the properties of *complex systems* including the soft-materials using the principle of physics. Here, I share the research projects pertianing to *Machine Learning* and *Statistical Physics* its application in *finance*, *complex systems* and *quantitative image-processing*. 
 
-## Papers
+**Here are some of my notable projects:**
 
-- **Iso- to anisotropic wetting on microwrinkled surfaces with varying intrinsic wettability**
-Hisay Lama, J. T. Cabral et al. 
-2025, Link: [Soft Matter](https://pubs.rsc.org/en/content/articlehtml/2025/sm/d5sm00525f)
-
-- **Emergence of bacterial glass**  
-Hisay Lama, K. A. Takeuchi et al.
-2024, Link: [PNAS Nexus](https://academic.oup.com/pnasnexus/article/3/7/pgae238/7693663?login=false)
-
-- **Morphologies of electric-field-driven cracks using linear stability analysis**
-Megha Emmerse, Hisay Lama, D.K Satapathy et al. 
-2024, Link: [Phys Rev E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.024604)
-
-- **Paper before 2024 can be found in my google scholar profile**\
-[Please see my google scholar profile](https://scholar.google.com/citations?user=nl3COaMAAAAJ&hl=en)
-
-## PhD thesis
-
-**Physics of desiccation cracks and pattern formation**  
-Hisay Lama  
-PhD thesis, IIT Madras, 2019  
-Online summary: [arXiv](https://arxiv.org/abs/2011.14029)
+* [Data-Driven Credit Risk Assessment Using Machine Learning: A LendingClub Case Study](https://github.com/hisaylama/DSF_Lendingclub-Loan-Approval-ml) - Credit risk modelling and a real time scoring app. [*Data Science in Finance*]
+* [Detetcting Minutiae](https://github.com/hisaylama/Minutiae-and-topological-defects-of-pattern) - Code characterizes the gel-networks, detects ends and junctions in the network. [*Quantitative Image Processing*]
+* [2D FTIR Hyperspectra viewer](https://github.com/hisaylama/ATR-FTIR-Data-Hyperspectra-Viewer-in-Matlab) - Matlab-based app for viewing 2D FTIR data. [*Soft-Matter Physics/Analytical Chemistry Analysis*]
+* [Phase retreival algorithm](https://github.com/hisaylama/Phase-Mask-for-Spatial-Light-Modulator) - Phase retrieval code for generating digital hologram for holography microscopy. [*Quantitative Image Processing*]
+* [Brownian simulation](https://github.com/hisaylama/Brownian-Simulation) - Langevin simulation and prey-predator model. [*Statistical Physics and Thermodynamics*/*Machine Learning*]
