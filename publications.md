@@ -23,11 +23,6 @@ Megha Emmerse, Hisay Lama, D.K Satapathy et al.
 - **Paper before 2024 can be found in my google scholar profile**\
 [Please see my google scholar profile](https://scholar.google.com/citations?user=nl3COaMAAAAJ&hl=en)
 
-## Short sci-tech articles 
-- **Computer generated holography using MATLAB**;
-  Hisay Lama, 2025, Link: [Medium](https://medium.com/@hisaylama_1391/computer-generated-holography-using-matlab-1a15ccd55444)
-- **Glassy dynamics in dense bacterial population**;
-  Hisay Lama, 2025, Link: [Medium](https://medium.com/@hisaylama_1391/glassy-dynamics-in-dense-bacterial-population-0d7f43f41470)
 
 ## PhD thesis
 
