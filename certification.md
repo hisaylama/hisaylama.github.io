@@ -6,7 +6,7 @@ permalink: /certification/
 - **Introduction to Probability: STAT 110** - HarvardX (edX)  
   *Issued: Jul 2025* · [Certificate](https://courses.edx.org/certificates/ea35d2fbbf6042ae9cb59581e3430828)
 
-- **Data Science in Finance** - ELVTR  
+- **Data Science in Finance** - [ELVTR](https://uk.elvtr.com/)  
   *Issued: Jun 2025* · [Certificate](https://uk.elvtr.com/certificate/41d0024d7f99414ea189f9411642d3f7/)
 
 - **McKinsey.org Forward Program** - Project Management (McKinsey & Company)  
@@ -17,10 +17,9 @@ permalink: /certification/
 
 - **Introduction to Machine Learning** - Stanford Online (Coursera)
   *Issued: Apr 2021* [Certificate](https://www.coursera.org/account/accomplishments/verify/WADREWGWFNBP)
+  
 
---
-
-# Ongoing Certifications
+# Ongoing Certification
 
 - **FCA Compliance Essentials** - London Governance and Compliance Academy\
   [Compliance management with practical knowledge of the laws and legislations](https://store.lgca.uk/product/fca-compliance-essentials/)\
