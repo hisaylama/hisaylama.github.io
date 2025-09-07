@@ -16,7 +16,7 @@ permalink: /certification/
   *Issued: Aug 2022* · [Certificate](https://www.coursera.org/account/accomplishments/verify/9D4CH3UY9F8U?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 - **Introduction to Machine Learning** - [Online course] Stanford Online (Coursera)
-  *Issued: Apr 2021* [Certificate](https://www.coursera.org/account/accomplishments/verify/WADREWGWFNBP)
+  *Issued: Apr 2021* . [Certificate](https://www.coursera.org/account/accomplishments/verify/WADREWGWFNBP)
   
 
 # Ongoing Certifications
