@@ -30,10 +30,10 @@ linkedin: hisaylama
 
 header_pages:
  - about.md
- - publications.md
  - projects.md
- - blog.md
+ - publications.md
  - certification.md
+ - blog.md
 
 # Build settings
 theme: minima
