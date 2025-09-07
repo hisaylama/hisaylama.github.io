@@ -6,9 +6,9 @@ I’m interested in *quantitative research* that enables us to understand the pr
 
 **Here are some of my notable projects:**
 
-* [Data-Driven Credit Risk Assessment Using Machine Learning: A LendingClub Case Study](https://github.com/hisaylama/DSF_Lendingclub-Loan-Approval-ml) - Credit risk modelling and a real time scoring app. [*Data Science in Finance*]
-* [Detetcting Minutiae](https://github.com/hisaylama/Minutiae-and-topological-defects-of-pattern) - Code characterizes the gel-networks, detects ends and junctions in the network. [*Quantitative Image Processing*]
-* [2D FTIR Hyperspectra viewer](https://github.com/hisaylama/ATR-FTIR-Data-Hyperspectra-Viewer-in-Matlab) - Matlab-based app for viewing 2D FTIR data. [*Soft-Matter Physics/Analytical Chemistry Analysis*]
-* [Phase retreival algorithm](https://github.com/hisaylama/Phase-Mask-for-Spatial-Light-Modulator) - Phase retrieval code for generating digital hologram for holography microscopy. [*Quantitative Image Processing*]
-* [Brownian simulation](https://github.com/hisaylama/Brownian-Simulation) - Langevin simulation and prey-predator model. [*Statistical Physics and Thermodynamics*/*Machine Learning*]
+* [Credit Risk Analytics & Real-Time Scoring (LendingClub Case Study)](https://github.com/hisaylama/DSF_Lendingclub-Loan-Approval-ml) - Built an end-to-end pipeline for feature engineering, model training, and a live scoring web-app. [*Data Science in Finance*]
+* [Graph-Based Pattern & Anomaly Detection from Images](https://github.com/hisaylama/Minutiae-and-topological-defects-of-pattern) - Converted images to networks to detect endpoints/junctions; framed as graph analytics for fraud/risk signal discovery. [*Quantitative Image Processing*]
+* [Interactive Analytics App for High-Dimensional Data (Chemical Fingerprint)](https://github.com/hisaylama/ATR-FTIR-Data-Hyperspectra-Viewer-in-Matlab) - Developed a GUI to slice, filter, and visualize large matrices—analogous to building BI tools for portfolio/credit dashboards. [*Soft-Matter Physics/Analytical Chemistry Analysis*]
+* [Optimization-Driven Signal Reconstruction (Phase retreival algorithm)](https://github.com/hisaylama/Phase-Mask-for-Spatial-Light-Modulator) - Implemented inverse-problem methods to recover missing/noisy signals for optical holography; transferable to data imputation and time-series smoothing in finance. [*Quantitative Image Processing*]
+* [Monte Carlo Scenario Simulation](https://github.com/hisaylama/Brownian-Simulation) - Built stochastic simulators (Langevin/agent models) to study ecological problem -> transfareable to generate scenarios applicable to VaR, liquidity, and credit stress testing. [*Statistical Physics and Thermodynamics*/*Machine Learning*]
    
