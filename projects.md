@@ -8,7 +8,7 @@ I’m interested in *quantitative research* that enables us to understand the pr
 
 **Here are some of my notable projects:**
 
-* [Credit Risk Analytics & Real-Time Scoring (LendingClub Case Study)](https://github.com/hisaylama/DSF_Lendingclub-Loan-Approval-ml) - Built an end-to-end pipeline for feature engineering, model training, and a live scoring web-app. [*Data Science in Finance*]
+* [Credit Risk Analytics & Real-Time Scoring (Lending Club Case Study)](https://github.com/hisaylama/DSF_Lendingclub-Loan-Approval-ml) - Built an end-to-end pipeline for feature engineering, model training, and a live scoring web-app. [*Data Science in Finance*]
   
 * [Graph-Based Pattern & Anomaly Detection from Images](https://github.com/hisaylama/Minutiae-and-topological-defects-of-pattern) - Converted images to networks to detect endpoints/junctions; framed as graph analytics for fraud/risk signal discovery. [*Quantitative Image Processing*]
   
