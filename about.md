@@ -10,7 +10,7 @@ I'm a Physicist working as Research Associate at Imperial College London. I appl
 
 ## Contact Me
 
-* **Email:** My email address is <h.lama@imperial.ac.uk>
+* **Email:** My email address is <h.lama@imperial.ac.uk>/<hisaylama@gmail.com> 
 
 * **In person:** My office is in the ACEX 514B, South Kensington, Imperial College London, SW7 2AZ
 
