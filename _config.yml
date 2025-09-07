@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hisay Lama - Quantitative Research & Data Science
+title: Hisay Lama – Physicis to Finance
 email: hisaylama@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The website of Hisay Lama,
