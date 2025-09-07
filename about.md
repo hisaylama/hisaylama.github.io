@@ -19,7 +19,7 @@ I'm a Physicist working as Research Associate at Imperial College London. I appl
 ## CV
 
 * **Oct 2023--present:** Research Associate, Imperial College London, UK
-* **Feb 2025 - July 2025:** Data Science in Finance bootcamp, [ELVTR](https://uk.elvtr.com/), UK 
+* **Feb 2025 - July 2025:** Bootcamp in Data Science in Finance, [ELVTR](https://uk.elvtr.com/), UK 
 * **Dec 2020--Oct 2023:** Researcher, School of Science, The University of Tokyo, Japan
 * **Nov 2019--Nov 2020:** Senior Researcher, Institue of Basic Science (IBS), South Korea
 * **Jan 2014--Sept 2019:** PhD Physics, Department of Physics, IIT Madras, India
