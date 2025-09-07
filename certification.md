@@ -19,7 +19,7 @@ permalink: /certification/
   *Issued: Apr 2021* [Certificate](https://www.coursera.org/account/accomplishments/verify/WADREWGWFNBP)
   
 
-# Ongoing Certification
+# Ongoing Certifications
 
 - **FCA Compliance Essentials** - London Governance and Compliance Academy\
   [Compliance management with practical knowledge of the laws and legislations](https://store.lgca.uk/product/fca-compliance-essentials/)\
