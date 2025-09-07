@@ -16,7 +16,7 @@ I’m interested in *quantitative research* that enables us to understand the pr
   
 * [Optimization-Driven Signal Reconstruction (Phase retreival algorithm)](https://github.com/hisaylama/Phase-Mask-for-Spatial-Light-Modulator) - Implemented inverse-problem methods to recover missing/noisy signals for optical holography; transferable to data imputation and time-series smoothing in finance. [*Quantitative Image Processing*]
   
-* [Monte Carlo Scenario Simulation (Brownian motion)](https://github.com/hisaylama/Brownian-Simulation) - Built stochastic simulators (Langevin/agent models) to study ecological problem -> transfareable to generate scenarios applicable to VaR, liquidity, and credit stress testing. [*Statistical Physics and Thermodynamics*/*Machine Learning*]
+* [Monte Carlo Simulation (Brownian motion)](https://github.com/hisaylama/Brownian-Simulation) - Built stochastic simulators (Langevin/agent models) to study ecological problem -> transfareable to generate scenarios applicable to VaR, liquidity, and credit stress testing. [*Statistical Physics and Thermodynamics*/*Machine Learning*]
   
 * [Dynamic Phase Transitions in Non-Equilibrium Systems (Nonequillibrium Physics)](https://academic.oup.com/pnasnexus/article/3/7/pgae238/7693663#476173859)
 Converted noisy microscopy into quantitative signals via a MATLAB→Python pipeline (denoising, segmentation, feature extraction); modeled dynamics, detected jamming transitions; published in *PNAS Nexus*. **[Code/Data](https://zenodo.org/records/11522483)** · [*Statistical Physics and Thermodynamics*] \
