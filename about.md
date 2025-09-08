@@ -4,7 +4,7 @@ title: About me
 permalink: /me/
 ---
 
-I'm a Physicist working as Research Associate at Imperial College London. I apply rigorous quantitative methods to understand the pattern in complex data including credit and risk problems - clean data in, actionable decisions out. My recent projects related to quantitative research are available in my [github](https://github.com/hisaylama) repository. Previously, I worked on drying of statistical physica, instrumentation - physics and optical microscopy and data automation. The details on this can be found in my [google-site webpage](https://sites.google.com/view/hisaylama1/XX?authuser=0). 
+I'm a Physicist working as Research Associate at Imperial College London. I apply rigorous quantitative methods to understand the pattern in complex data including credit and risk problems - clean data in, actionable decisions out. My recent projects related to quantitative research are available in my [github](https://github.com/hisaylama) repository. Previously, I worked on drying of statistical physics, instrumentation - physics and optical microscopy and data automation. The details on this can be found in my [google-site webpage](https://sites.google.com/view/hisaylama1/XX?authuser=0). 
 
 ---
 
