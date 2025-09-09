@@ -6,5 +6,7 @@ I’m interested in *quantitative research* that enables us to understand the pr
 
 **See my notable work on the [Projects](projects.md) page.**
 
-📄 [Download My CV (PDF)](https://github.com/user-attachments/files/22218372/Hisay.Lama.CV.pdf) \
-🔗 Connect With Me - [LinkedIn Profile](https://www.linkedin.com/in/hisay-lama-ph-d-28478285/)  
+📄 [My CV (PDF)](https://github.com/user-attachments/files/22218372/Hisay.Lama.CV.pdf) \
+🔗 Connect With Me - [LinkedIn Profile](https://www.linkedin.com/in/hisay-lama-ph-d-28478285/) \
+📄 Recomendation from Andrea Baroni, Barclays, UK- [Download here](https://github.com/user-attachments/files/22232303/DSF.-.Hisay.Lama.pdf)
+
