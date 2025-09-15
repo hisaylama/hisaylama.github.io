@@ -12,10 +12,10 @@ permalink: /certification/
 - **McKinsey.org Forward Program** - Project Management (McKinsey & Company)  
   *Issued: Dec 2024* · [Certificate](https://www.credly.com/badges/fa53e6b4-bb88-48e8-8b82-d5da316e57b4/linked_in_profile)
 
-- **Introduction to Statistics** - [Online course] Stanford Online (Coursera)
+- **Introduction to Statistics** - [Online course] Stanford Online (Coursera) \
   *Issued: Aug 2022* · [Certificate](https://www.coursera.org/account/accomplishments/verify/9D4CH3UY9F8U?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
-- **Introduction to Machine Learning** - [Online course] Stanford Online (Coursera)
+- **Introduction to Machine Learning** - [Online course] Stanford Online (Coursera) \
   *Issued: Apr 2021* . [Certificate](https://www.coursera.org/account/accomplishments/verify/WADREWGWFNBP)
   
 
