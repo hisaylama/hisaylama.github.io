@@ -8,4 +8,5 @@ permalink: /blog/
   Hisay Lama, 2025, Link: [Medium](https://medium.com/@hisaylama_1391/computer-generated-holography-using-matlab-1a15ccd55444)
 - **Glassy dynamics in dense bacterial population**;
   Hisay Lama, 2025, Link: [Medium](https://medium.com/@hisaylama_1391/glassy-dynamics-in-dense-bacterial-population-0d7f43f41470)
-
+- **Wrinkled Surfaces that Help Liquid Droplets Flow**;
+  Hisay Lama, 2025, Link: [Medium](https://medium.com/@hisaylama_1391/wrinkled-surfaces-that-help-liquiddroplets-flow-83662c1177d2)
