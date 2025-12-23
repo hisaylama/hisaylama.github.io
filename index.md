@@ -2,7 +2,7 @@
 ---
 Hi, I'm Hisay Lama - a Physicist working at the Imperial College London, U.K.
 
-I’m interested in *quantitative research* that enables us to understand the properties of *complex systems* including *Statistical physics* and *finance* using the principle of physics. Here, I share the research projects pertaining to *Machine Learning* and *Statistical Physics* its application in *finance*, *complex systems* and *quantitative image-processing*. 
+I'm interested in applied *quantitative research* that uses *machine learning* and principles from *statistical physics* to analyze and model *complex, data-driven systems*, such as in finance. My work focuses on translating physics-based concepts - such as *stochastic dynamics, collective behavior*, and *scaling laws* - into practical models for *prediction*, *risk analysis*, and *decision-making*. Through projects in *machine learning, financial modeling, complex systems*, and *quantitative image processing*, I aim to develop robust, interpretable, and scalable solutions relevant to data science, applied research, and quantitative roles in industry.
 
 **See my notable work on the [Projects](projects.md) page.**
 
