@@ -23,7 +23,7 @@ permalink: /certification/
 
 - **UK Financial Regulation (Level 4, FCA compliance) by CIFA UK** - CIFA UK\
   [Introduction to UK Financial Regulation and Professional Integrity](https://cifa.ac/cifa-resume/57edb8d1-d222-44e2-acde-996e818aad03)\
-  *Expected Feb 2026*
+
   
 - **Financial Engineering** - IIQF (India) and LIBF (UK)  \
   [Quantitative Finance and Economics](https://www.iiqf.org/courses/certificate-program-finance-engineers.html)\
